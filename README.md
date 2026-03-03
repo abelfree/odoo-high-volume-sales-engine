@@ -1,5 +1,11 @@
 ﻿# Odoo High Volume Sales Order Engine
 
+[![Odoo](https://img.shields.io/badge/Odoo-16%2B-5E2750)](https://www.odoo.com/)
+[![License: LGPL-3.0](https://img.shields.io/badge/License-LGPL--3.0-blue.svg)](./LICENSE)
+[![Status](https://img.shields.io/badge/Status-Portfolio_Ready-brightgreen)](#)
+[![Last Commit](https://img.shields.io/github/last-commit/abelfree/odoo-high-volume-sales-engine)](https://github.com/abelfree/odoo-high-volume-sales-engine/commits/master)
+
+
 ## Problem
 Large agricultural operations can ingest thousands of orders per hour from field tools, payment systems, or partner channels. Default one-by-one creation patterns create lock contention and duplicate records during retries.
 
@@ -27,3 +33,11 @@ This project implements a bulk ingestion service for Odoo Sales focused on throu
 - How you prevent duplicates in eventually consistent integrations.
 - Why chunked commits can improve recoverability during peak load.
 - How to capture before/after metrics for business-facing reporting.
+
+
+## Screenshots
+
+![Project Screenshot](assets/screenshots/placeholder.svg)
+
+Replace ssets/screenshots/placeholder.svg with real screenshots from your Odoo demo environment.
+
