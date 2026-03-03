@@ -35,9 +35,4 @@ This project implements a bulk ingestion service for Odoo Sales focused on throu
 - How to capture before/after metrics for business-facing reporting.
 
 
-## Screenshots
-
-![Project Screenshot](assets/screenshots/placeholder.svg)
-
-Replace ssets/screenshots/placeholder.svg with real screenshots from your Odoo demo environment.
 
